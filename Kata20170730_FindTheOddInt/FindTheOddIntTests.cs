@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Kata20170730_FindTheOddInt
 {
     [TestClass]
-    public class UnitTest1
+    public class FindTheOddIntTests
     {
         [TestMethod]
         public void TestMethod1()
